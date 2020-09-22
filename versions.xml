@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <Builds xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Pack Project="SPAMassageSaloon" Name="vas1Ojo7HfqWy5X.zip" MD5="35d22b639b5c059196f923cac91ca281" NeedRestartApplication="true">
+  <Pack Project="SPAMassageSaloon" Name="inkrg8uyeXeTZSu.zip" MD5="4f83481c2ccdb78774ef8f5e7ba212cb" NeedRestartApplication="true">
     <Build>
       <Location>SPAMassageSaloon.exe</Location>
       <AssemblyName>SPAMassageSaloon</AssemblyName>
       <ScopeName>SPAMassageSaloon.exe</ScopeName>
-      <Version>1.0.7548.35981</Version>
+      <Version>1.0.7570.41320</Version>
       <Type>Update</Type>
       <Description>Bug fixes</Description>
     </Build>
